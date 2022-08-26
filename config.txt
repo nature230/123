@@ -19,9 +19,9 @@
 # 生日1
 "birthday1": {"name": "nature", "birthday": "1997-05-22"},
 # 生日2
-# "birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+"birthday2": {"name": "lynn", "birthday": "r1996-03-11"},
 # 在一起的日子，格式同上
-# "love_date": "2021-01-01",
+"love_date": "2017-03-19",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
